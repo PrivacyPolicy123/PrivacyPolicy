@@ -1,4 +1,3 @@
-Here’s a Privacy Policy template for your Roqate Roblox browser extension. It can be included in a PRIVACY_POLICY.md file on your GitHub repository.
 
 Privacy Policy for Roqate Extension
 
